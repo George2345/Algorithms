@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ArbolBinarioBusqueda", "ArbolBinarioBusqueda\ArbolBinarioBusqueda.vcxproj", "{FD9C5D46-200A-44B2-B4B9-7328B0EF6843}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD9C5D46-200A-44B2-B4B9-7328B0EF6843}.Debug|x64.ActiveCfg = Debug|x64
+		{FD9C5D46-200A-44B2-B4B9-7328B0EF6843}.Debug|x64.Build.0 = Debug|x64
+		{FD9C5D46-200A-44B2-B4B9-7328B0EF6843}.Debug|x86.ActiveCfg = Debug|Win32
+		{FD9C5D46-200A-44B2-B4B9-7328B0EF6843}.Debug|x86.Build.0 = Debug|Win32
+		{FD9C5D46-200A-44B2-B4B9-7328B0EF6843}.Release|x64.ActiveCfg = Release|x64
+		{FD9C5D46-200A-44B2-B4B9-7328B0EF6843}.Release|x64.Build.0 = Release|x64
+		{FD9C5D46-200A-44B2-B4B9-7328B0EF6843}.Release|x86.ActiveCfg = Release|Win32
+		{FD9C5D46-200A-44B2-B4B9-7328B0EF6843}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03BA5688-F53D-452C-9BF2-59571AB5680B}
+	EndGlobalSection
+EndGlobal
